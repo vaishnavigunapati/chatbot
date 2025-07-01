@@ -36,9 +36,4 @@ This is a simple and powerful **voice-based assistant** built using:
 
 ---
 
-## 🚀 How to Run
 
-1. **Clone this repo**  
-   ```bash
-   git clone https://github.com/yourusername/voice-assistant-groq.git
-   cd voice-assistant-groq
